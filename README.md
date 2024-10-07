@@ -37,7 +37,7 @@ A Netflix clone built with Vite + React.js, featuring Firebase authentication an
 
     ```bash
     git clone https://github.com/shivaa003/Netflix_clone.git
-    cd netflix-clone
+    cd Netflix_clone
     ```
 
 2. **Install dependencies**
